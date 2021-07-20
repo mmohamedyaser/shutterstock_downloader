@@ -23,7 +23,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Installing](#insalling)
+- [Installing](#installing)
 - [Built Using](#built_using)
 - [Acknowledgments](#acknowledgement)
 
@@ -61,4 +61,4 @@ Let's go one by one:
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
-- Just a hobby ;)
+- Just a hobby 😉
