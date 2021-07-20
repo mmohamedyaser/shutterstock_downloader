@@ -122,8 +122,6 @@ for i in urls:
             elem12.send_keys(Keys.DELETE)
             elem12.send_keys("100")
             elem12.send_keys(Keys.ENTER)
-            # WebDriverWait(driver,100).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/div/div[3]/input'))).send_keys("100")
-            # WebDriverWait(driver,100).until(EC.element_to_be_clickable((By.XPATH, '/html/body/div[2]/div/div/div[3]/input'))).send_keys(Keys.ENTER)
             WebDriverWait(driver,100).until(EC.element_to_be_clickable((By.XPATH, '//button[contains(@data-automation, "download")]'))).click()
             try:
                 # if len(editoral23) >= 31:
