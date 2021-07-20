@@ -55,18 +55,6 @@ Let's go one by one:
   python shutterstock_downloader.py
   ```
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
 ## ⛏️ Built Using <a name = "built_using"></a>
 
 - [Python](https://www.python.org/) - Python
