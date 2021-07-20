@@ -46,9 +46,6 @@ Let's go one by one:
   - Now open the urls.csv and insert all your shutterstock image links.
   - Lastly run [code]python shutterstock_downloader.py[/code] (Windows OS)
 
-For installing all your python requirements
-
-
 ```
 Give the example
 ```
