@@ -7,10 +7,13 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/mmohamedyaser/shutterstock_downloader/issues)
+[![Status](https://img.shields.io/badge/Status-Active-green)]()
+[![GitHub forks](https://img.shields.io/github/forks/mmohamedyaser/shutterstock_downloader)](https://github.com/mmohamedyaser/shutterstock_downloader/network)
+[![GitHub issues](https://img.shields.io/github/issues/mmohamedyaser/shutterstock_downloader)](https://github.com/mmohamedyaser/shutterstock_downloader/issues)
+[![GitHub stars](https://img.shields.io/github/stars/mmohamedyaser/shutterstock_downloader)](https://github.com/mmohamedyaser/shutterstock_downloader/stargazers)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/mmohamedyaser/shutterstock_downloader/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmmohamedyaser%2Fshutterstock_downloader)
 
 </div>
 
