@@ -40,11 +40,20 @@ Thing you will need to make the program function properly:
 ### Installing <a name = "installing"></a>
 
 Let's go one by one:
-  - ```git clone https://github.com/mmohamedyaser/shutterstock_downloader.git ```
-  - To install all python requirements, run ```python -m pip install -r requirements.txt``` (Windows OS)
+  - First git clone the repo, using the below command.
+  ```
+  git clone https://github.com/mmohamedyaser/shutterstock_downloader.git 
+  ```
+  - To install all python requirements, run the below(Windows OS): 
+  ```
+  python -m pip install -r requirements.txt
+  ```
   - Open userpass.csv, input your shutterstock username followed by ||| and then the password.
   - Now open the urls.csv and insert all your shutterstock image links.
-  - Lastly run ```python shutterstock_downloader.py``` (Windows OS)
+  - Lastly run the below (Windows OS) 
+  ```
+  python shutterstock_downloader.py
+  ```
 
 ```
 Give the example
