@@ -49,7 +49,11 @@ Let's go one by one:
   ```
   python -m pip install -r requirements.txt
   ```
-  - Open userpass.csv, input your shutterstock username followed by ||| and then the password.
+  - [NEW] Open Chrome browser, click on the person icon left of the three dots.
+  - [NEW] Click add. Click continue without account. Give the new profile a name.
+  - [NEW] A new browser window will open up. Go to Shutterstock.com and login to your profile. After the login close the browser.
+  - [NEW] Open profile.csv, input your Chrome data file location followed by ||| and then the user profile name. (i.e, "C:\Users\username\AppData\Local\Google\Chrome\User Data"|||"Profile 1")
+  - The above part is a onetime step. Does not required to be repeated.
   - Now open the urls.csv and insert all your shutterstock image links.
   - Lastly run the below (Windows OS) 
   ```
