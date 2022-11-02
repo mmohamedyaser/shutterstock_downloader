@@ -126,7 +126,7 @@ for i in urls:
             WebDriverWait(driver,100).until(EC.element_to_be_clickable((By.XPATH, '//button[contains(@data-automation, "download")]'))).click()
             if isPresent != None:
                 time.sleep(5)
-                box = driver.find_element_by_xpath("//span/span/input[contains(@name, 'EditorialUseOnly')]")
+                box = driver.find_element("xpath","//input[contains(@name, 'EditorialUseOnly')]")
                 driver.execute_script("arguments[0].click();", box)
             else:
                 pass
@@ -149,7 +149,7 @@ for i in urls:
             time.sleep(5)
             if isPresent != None:
                 time.sleep(5)
-                box = driver.find_element_by_xpath("//span/span/input[contains(@name, 'EditorialUseOnly')]")
+                box = driver.find_element("xpath","//input[contains(@name, 'EditorialUseOnly')]")
                 driver.execute_script("arguments[0].click();", box)
             else:
                 pass
